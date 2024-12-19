@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1734595257 source:c:\users\veiron\documents\tubes_strukdat\tubes_strukdat\tubes.cpp
+	"tubes.h"
+
+1734592768 c:\users\veiron\documents\tubes_strukdat\tubes_strukdat\tubes.h
+	<iostream>
+
+1734594672 source:c:\users\veiron\documents\tubes_strukdat\tubes_strukdat\main.cpp
+	<iostream>
+	"tubes.h"
+
