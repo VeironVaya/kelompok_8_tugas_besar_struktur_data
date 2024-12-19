@@ -1,10 +1,14 @@
 # TUBES STRUKTUR DATA OLEH KELOMPOK 8
 
+Oleh: 
+- `103012300100` Veiron Vaya Yarief
+- `103012300039` Muhammad Irgiansyah
+
 ## DESKRIPSI
 
 Membuat aplikasi tentang mahasiswa dan mata kuliah serta relasi antara kedua entitas tersebut
 
-### Fungsi dalam aplikasi:  
+### A. Fungsi dalam aplikasi:  
 
 #### 1. Insert data parent dari depan/belakang (5) -> insert last dari (admin) 
 #### 2. Show all data parent (5) -> show mahasiswa (admin) 
@@ -18,7 +22,7 @@ Membuat aplikasi tentang mahasiswa dan mata kuliah serta relasi antara kedua ent
 #### 10. Menghitung total sks yang diambil (10) -> udah ada di show all (admin) && tiap mahasiswa bisa melihat juga tapi hanya untuk dirinya 
 #### 11. Main program (10) -> switch case pilihan
 
-### Fungsi dalam program:
+### B. Fungsi dalam program:
 
 
 ```c++
